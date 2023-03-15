@@ -1,1 +1,5 @@
-".idea, .git" 
+# ignore .git directory
+.git
+
+# ignore .idea directory
+.idea
