@@ -6,4 +6,4 @@ Height: 185 sm
 Eyes: blue
 Hair: Red
 Email: John.Dow@gmail.com
-phone: +380501234567
+phone: +38-050-123-45-67
