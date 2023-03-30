@@ -23,7 +23,7 @@ public class Main {
             if (array[q] > 5 && array[q] < 45) {
                 sum = sum + array[q];
             }
-            if (array[q] % 2 == 0) {
+            if (array[q] % 2 == 0 && array[q]>0) {
                 System.out.print(array[q] + " ");
             }
 
